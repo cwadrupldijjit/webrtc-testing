@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "helmet": "^3.21.0",
     "rxjs": "~6.4.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.2.0",
     "tslib": "^1.10.0",
     "uid": "0.0.2",
